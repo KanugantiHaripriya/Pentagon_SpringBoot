@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: 1_SpringBoot_Demo1
+  security:
+    user:
+      name: haripriya
+      password: 12345
+server:
+  port: 234
